@@ -1,1 +1,1 @@
-# HelloRubyGem
+# hello.gem
