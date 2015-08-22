@@ -1,1 +1,2 @@
+DEGUG=true
 require 'dev'
