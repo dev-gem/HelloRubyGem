@@ -1,2 +1,2 @@
-DEGUG=true
+DEBUG=true
 require 'dev'

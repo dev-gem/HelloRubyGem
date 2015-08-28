@@ -18,7 +18,7 @@
 Gem::Specification.new do |s|
 	s.name			= 'HelloRubyGem'
 	s.version		= "0.0.0"
-	s.date			= '2015-08-22'
+	s.date			= '2015-08-28'
 	s.summary		= 'hello'
 	s.description	= 'an example gem project that uses the dev gem'
 	s.authors		= ["Lou Parslow"]
