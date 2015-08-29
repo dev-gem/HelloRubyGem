@@ -1,2 +1,1 @@
-DEBUG=true
 require 'dev'
